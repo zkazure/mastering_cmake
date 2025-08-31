@@ -1,3 +1,16 @@
 #+title: README
 
 This a simple tutorial for mastering cmake.
+
+* Hello World
+
+[[file:hello_world/][here]] is the minimum cmake project.
+
+- checkout the ~CMakeLists.txt~
+- read the ~main.cpp~
+- try to build the project
+  #+begin_src sh
+    cd build
+    cmake .. # it will read the CMakeLists.txt automatically at the ../ 
+    make
+  #+end_src

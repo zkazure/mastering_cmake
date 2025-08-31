@@ -10,6 +10,7 @@ This a simple tutorial for mastering cmake.
 - read the ~main.cpp~
 - try to build the project
   #+begin_src sh
+    mkdir build
     cd build
     cmake .. # it will read the CMakeLists.txt automatically at the ../ 
     make

@@ -1,0 +1,3 @@
+#+title: README
+
+This a simple tutorial for mastering cmake.

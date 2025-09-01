@@ -15,3 +15,4 @@ This a simple tutorial for mastering cmake.
     cmake .. # it will read the CMakeLists.txt automatically at the ../ 
     make
   #+end_src
+- run executable with ~./HelloWorld~
